@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React js , react bootstrap , python essentials , AWS**
+
 
 - 📫 How to reach me **letsmail.sakthivel@gmail.com**
 
