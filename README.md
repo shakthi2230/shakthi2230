@@ -34,44 +34,37 @@ I'm a passionate developer who loves creating high-performance web applications 
     </td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI & Machine Learning</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
-      <img src="https://img.shields.io/badge/Langchain-FF6F61?style=flat&logo=langchain&logoColor=white" alt="Langchain" />
-      <img src="https://img.shields.io/badge/Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white" alt="Qdrant DB" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Other Tools</strong></td>
+    <td><strong>DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
     </td>
   </tr>
+  <tr>
+    <td><strong>Emerging Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/Langchain-FF6F61?style=flat&logo=langchain&logoColor=white" alt="Langchain" />
+      <img src="https://img.shields.io/badge/Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white" alt="Qdrant DB" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+<h2 style="color: #FF6347;">🚀 Featured Projects</h2>
 
 ### 📜 Medi Transcribe
-A HIPAA-compliant healthcare transcription system utilizing Google’s Speech API for automated SOAP note generation.  
+A HIPAA-compliant healthcare transcription system using Google’s Speech API for SOAP note automation.  
 **Tech Stack:** Google Speech API, FastAPI, Docker
 
 ### 🔍 AI-Powered Document Search Engine
-An intelligent search engine for quick, accurate document retrieval using natural language queries.  
+An intelligent search engine for document retrieval using natural language queries and OpenAI.  
 **Tech Stack:** OpenAI API, Python, Django
 
 ### 💬 Intelligent Chatbot
-A context-aware chatbot built with Langchain and OpenAI for real-time knowledge retrieval and user assistance.  
+A context-aware chatbot built with Langchain and OpenAI for real-time knowledge retrieval.  
 **Tech Stack:** Langchain, OpenAI API, React.js
 
 ---
