@@ -1,81 +1,86 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#FF6347;">Sakthivel M</span> 🚀</h1>
-<p align="center">
-    <b>Full Stack Developer | AI Enthusiast | Web Application Specialist</b>
-</p>
+<h1 align="center">👋 Hello, I'm <span style="color:#FFA500;">Sakthivel M</span> 🚀</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Frontend-React%20|%20Next.js%20|%20JavaScript%20|%20Bootstrap-blue?style=flat-square&logo=react"/>
-    <img src="https://img.shields.io/badge/Backend-Python%20|%20Django%20|%20FastAPI-green?style=flat-square&logo=python"/>
-    <img src="https://img.shields.io/badge/Database-MySQL%20|%20Firebase-orange?style=flat-square&logo=mysql"/>
-    <img src="https://img.shields.io/badge/AI%20&%20ML-OpenAI%20|%20Langchain%20|%20Qdrant%20DB-purple?style=flat-square&logo=openai"/>
-    <img src="https://img.shields.io/badge/Tools-Docker%20|%20Git%20|%20Google%20Cloud-lightgrey?style=flat-square&logo=docker"/>
+  <b>Full Stack Developer | AI Enthusiast | Web Application Specialist</b>
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/shakthi22/">
-        <img src="https://img.shields.io/badge/LinkedIn-shakthi22-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/shakthi2230">
-        <img src="https://img.shields.io/badge/GitHub-shakthi2230-181717?style=for-the-badge&logo=github" alt="GitHub">
-    </a>
-    <a href="mailto:sakthivelmaadhu26@gmail.com">
-        <img src="https://img.shields.io/badge/Email-sakthivelmaadhu26%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
+  <a href="https://www.linkedin.com/in/shakthi22/"><img src="https://img.shields.io/badge/LinkedIn-shakthi22-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/shakthi2230"><img src="https://img.shields.io/badge/GitHub-shakthi2230-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:sakthivelmaadhu26@gmail.com"><img src="https://img.shields.io/badge/Email-sakthivelmaadhu26%40gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<table align="center">
-    <tr>
-        <td><b>Frontend Development</b></td>
-        <td>React.js, Next.js, HTML, CSS, JavaScript, Bootstrap</td>
-    </tr>
-    <tr>
-        <td><b>Backend Development</b></td>
-        <td>Python, Django, Flask, FastAPI, REST API Development</td>
-    </tr>
-    <tr>
-        <td><b>Database Management</b></td>
-        <td>MySQL, Firebase</td>
-    </tr>
-    <tr>
-        <td><b>AI & Machine Learning</b></td>
-        <td>OpenAI API, Langchain, Document Embeddings, Qdrant DB</td>
-    </tr>
-    <tr>
-        <td><b>Tools</b></td>
-        <td>Docker, Git, Google Cloud</td>
-    </tr>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/-Langchain-FF6F61?style=flat&logo=langchain&logoColor=white">
+      <img src="https://img.shields.io/badge/-Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Other Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+    </td>
+  </tr>
 </table>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
 
 ### 📜 Medi Transcribe
-- **Description:** HIPAA-compliant healthcare transcription system using Google’s Speech API to automate SOAP notes.
-- **Technologies:** Google Speech API, FastAPI, Docker
+A HIPAA-compliant healthcare transcription system that uses Google’s Speech API for automating SOAP note generation.  
+**Tech Stack:** Google Speech API, FastAPI, Docker
 
 ### 🔍 AI-Powered Document Search Engine
-- **Description:** AI-based search engine enabling fast, accurate document retrieval using natural language queries.
-- **Technologies:** OpenAI API, Python, Django
+An intelligent search engine for fast, accurate document retrieval using natural language queries and OpenAI.  
+**Tech Stack:** OpenAI API, Python, Django
 
 ### 💬 Intelligent Chatbot
-- **Description:** Contextually aware chatbot built with Langchain and OpenAI for real-time knowledge retrieval.
-- **Technologies:** Langchain, OpenAI API, React.js
+A context-aware chatbot built with Langchain and OpenAI, designed for real-time knowledge retrieval and user assistance.  
+**Tech Stack:** Langchain, OpenAI API, React.js
 
 ---
 
-<h2 align="center">🤝 Let's Connect and Collaborate!</h2>
-<p align="center">
-    I'm always open to collaborating on exciting projects in web development, AI, and automation. Let’s create something amazing together!
-</p>
+<h2>🤝 Let's Connect!</h2>
+I'm always interested in new opportunities to collaborate, discuss, and innovate in web development and AI. Check out my repositories, and let’s connect on LinkedIn or via email!
 
-<p align="center">
-    <b>🌟 Thank you for stopping by!</b> Looking forward to connecting with fellow developers and tech enthusiasts.
-</p>
+<p align="center">🌟 <i>Thanks for stopping by!</i> 🌟</p>
