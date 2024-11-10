@@ -7,12 +7,7 @@ I’m a passionate developer who loves crafting high-performance web application
 
 ---
 
-### 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shakthi22-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shakthi22/)  
-[![GitHub](https://img.shields.io/badge/GitHub-shakthi2230-181717?style=for-the-badge&logo=github)](https://github.com/shakthi2230)  
-[![Email](https://img.shields.io/badge/Email-sakthivelmaadhu26%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sakthivelmaadhu26@gmail.com)
 
----
 
 ## 🛠️ Tech Stack
 <table>
