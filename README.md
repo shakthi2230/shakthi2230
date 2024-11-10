@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#FFA500;">Sakthivel M</span> 🚀</h1>
 
 <p align="center">
-  <b>Full Stack Developer | AI Enthusiast | Web Application Specialist</b>
+  <strong>Full Stack Developer | AI Enthusiast | Web Application Specialist</strong>
 </p>
 
 ---
 
-I’m a passionate developer who loves crafting high-performance web applications and diving deep into the world of AI. I focus on creating responsive, data-driven apps that leverage AI to solve real-world challenges and drive innovation.
-
+I'm a passionate developer who loves creating high-performance web applications and exploring AI. I focus on building responsive, data-driven apps that leverage AI to solve real-world challenges and drive innovation.
 
 ---
 
@@ -15,46 +14,46 @@ I’m a passionate developer who loves crafting high-performance web application
 
 <table>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white">
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
-      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
     </td>
   </tr>
   <tr>
-    <td><b>AI & Machine Learning</b></td>
+    <td><strong>AI & Machine Learning</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/-Langchain-FF6F61?style=flat&logo=langchain&logoColor=white">
-      <img src="https://img.shields.io/badge/-Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/Langchain-FF6F61?style=flat&logo=langchain&logoColor=white" alt="Langchain" />
+      <img src="https://img.shields.io/badge/Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white" alt="Qdrant DB" />
     </td>
   </tr>
   <tr>
-    <td><b>Other Tools</b></td>
+    <td><strong>Other Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" />
     </td>
   </tr>
 </table>
@@ -64,20 +63,20 @@ I’m a passionate developer who loves crafting high-performance web application
 <h2>🚀 Featured Projects</h2>
 
 ### 📜 Medi Transcribe
-A HIPAA-compliant healthcare transcription system that uses Google’s Speech API for automating SOAP note generation.  
+A HIPAA-compliant healthcare transcription system utilizing Google’s Speech API for automated SOAP note generation.  
 **Tech Stack:** Google Speech API, FastAPI, Docker
 
 ### 🔍 AI-Powered Document Search Engine
-An intelligent search engine for fast, accurate document retrieval using natural language queries and OpenAI.  
+An intelligent search engine for quick, accurate document retrieval using natural language queries.  
 **Tech Stack:** OpenAI API, Python, Django
 
 ### 💬 Intelligent Chatbot
-A context-aware chatbot built with Langchain and OpenAI, designed for real-time knowledge retrieval and user assistance.  
+A context-aware chatbot built with Langchain and OpenAI for real-time knowledge retrieval and user assistance.  
 **Tech Stack:** Langchain, OpenAI API, React.js
 
 ---
 
 <h2>🤝 Let's Connect!</h2>
-I'm always interested in new opportunities to collaborate, discuss, and innovate in web development and AI. Check out my repositories, and let’s connect on LinkedIn or via email!
+I'm always open to new collaborations, discussions, and innovations in web development and AI. Check out my repositories, or connect with me on LinkedIn or via email!
 
 <p align="center">🌟 <i>Thanks for stopping by!</i> 🌟</p>
