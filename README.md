@@ -12,11 +12,11 @@
 
 <hr style="border-top: 2px solid #FFA500; width: 30%; margin: 30px auto;"/>
 
-<h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; color: #FF6347; text-transform: uppercase; letter-spacing: 2px; border-bottom: 3px solid #FF6347; display: inline-block; padding-bottom: 10px;">🛠️ Tech Stack</h2>
+<h2 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 2em; color: #FF6347; text-transform: uppercase; letter-spacing: 2px; border-bottom: 3px solid #FF6347; display: inline-block; padding-bottom: 10px;">⚡ My Core Competencies</h2>
 
 <table style="width: 80%; margin: 30px auto; text-align: center; border-collapse: collapse;">
   <tr>
-    <td><strong style="font-size: 1.2em; color: #61DAFB;">Frontend</strong></td>
+    <td><strong style="font-size: 1.2em; color: #61DAFB;">💻 Front-End Wizardry</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
@@ -27,7 +27,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong style="font-size: 1.2em; color: #009688;">Backend</strong></td>
+    <td><strong style="font-size: 1.2em; color: #009688;">🔙 Back-End Mastery</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong style="font-size: 1.2em; color: #FF4500;">DevOps</strong></td>
+    <td><strong style="font-size: 1.2em; color: #FF4500;">🚀 DevOps & Automation</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -44,7 +44,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong style="font-size: 1.2em; color: #FF6F61;">Emerging Tools</strong></td>
+    <td><strong style="font-size: 1.2em; color: #FF6F61;">🔮 Emerging Technologies</strong></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
       <img src="https://img.shields.io/badge/Langchain-FF6F61?style=flat&logo=langchain&logoColor=white" alt="Langchain" />
