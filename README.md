@@ -67,7 +67,7 @@ An intelligent search engine for fast, accurate document retrieval using OpenAI.
 
 ### 💬 Intelligent Chatbot
 A context-aware chatbot built with Langchain and OpenAI, designed for real-time knowledge retrieval.  
-**Tech Stack:** Langchain, OpenAI API, React.js
+**Tech Stack:** Langchain, OpenAI API, React.js,AWs
 
 <hr style="border-top: 3px solid #FF6347; width: 50%; margin: 40px auto;"/>
 
