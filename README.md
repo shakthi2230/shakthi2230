@@ -51,7 +51,18 @@
       <img src="https://img.shields.io/badge/Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white" alt="Qdrant DB" />
     </td>
   </tr>
+  <tr>
+    <td><strong style="font-size: 1.2em; color: #1E90FF;">📂 Databases & Vector Storage</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/FAISS-FF6F61?style=flat&logoColor=white" alt="FAISS" />
+      <img src="https://img.shields.io/badge/Vector_DB-FF4500?style=flat&logo=database&logoColor=white" alt="Vector Databases" />
+    </td>
+  </tr>
 </table>
+
 
 <hr style="border-top: 3px solid #FF6347; width: 50%; margin: 40px auto;"/>
 
