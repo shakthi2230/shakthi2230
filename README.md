@@ -49,6 +49,7 @@
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI API" />
       <img src="https://img.shields.io/badge/Langchain-FF6F61?style=flat&logo=langchain&logoColor=white" alt="Langchain" />
       <img src="https://img.shields.io/badge/Qdrant_DB-FF4500?style=flat&logo=qdrant&logoColor=white" alt="Qdrant DB" />
+      <h2>Llama index</h2>
     </td>
   </tr>
   <tr>
